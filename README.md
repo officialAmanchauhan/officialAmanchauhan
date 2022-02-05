@@ -20,6 +20,8 @@ Find More On : [LinkedIn](https://www.linkedin.com/in/aman-chauhan-a90tb7)
 
 [![Aman GitHub stats](https://github-readme-stats.vercel.app/api?username=officialAmanChauhan)](https://github.com/officialAmanChauhan/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialAmanChauhan&layout=compact)](https://github.com/officialAmanChauhan/github-readme-stats)
+
 <!--
 **officialAmanchauhan/officialAmanchauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
