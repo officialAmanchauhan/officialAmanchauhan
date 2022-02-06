@@ -14,7 +14,7 @@ If I am into Something , Find my 10000%
 
 👯 I’m looking to collaborate on Data Science Projects
 
-⚡ Fun fact: I Became Scientist to Test Data, Now it's Testing Me
+⚡ Fun fact: I Became Scientist to Test Data, Now It's Testing Me
 
 <h3 align="left">Connect with me:</h3> 
 ![LinkedIn](https://www.linkedin.com/in/aman-chauhan-a90tb7)
