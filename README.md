@@ -2,7 +2,7 @@
 ## I AM AN [AMAN]
 ![Head](https://github.com/officialAmanchauhan/ML-Olympiad-Autism-Challenge/blob/main/Assets/A.png)
 
-<h3 align="left">A Passionate Learner & Aspiring Data Scientist</h3>
+<h3 align="left">A Passionate Explorer</h3>
 
 An Indistinguishable Mind Capable of Anything
 
