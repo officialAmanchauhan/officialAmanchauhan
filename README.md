@@ -18,7 +18,7 @@ If I am into Something , Find my 10000%
 
 <h3 align="left">Connect with me:</h3> 
 
-[LinkedIn](https://www.linkedin.com/in/aman-chauhan-a90tb7) | 
+[LinkedIn]([https://www.linkedin.com/in/aman-chauhan-a90tb7](https://www.linkedin.com/in/aman-chauhan-cs/)) | 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=officialAmanChauhan&layout=compact)](https://github.com/officialAmanChauhan/github-readme-stats)
 
